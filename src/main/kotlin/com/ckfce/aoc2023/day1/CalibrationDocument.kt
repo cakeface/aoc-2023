@@ -1,4 +1,4 @@
-package com.ckfce.aoc2023.core
+package com.ckfce.aoc2023.day1
 
 class CalibrationDocument(private val text: String) {
 

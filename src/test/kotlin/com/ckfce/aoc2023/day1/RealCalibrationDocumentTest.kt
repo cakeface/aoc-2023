@@ -1,4 +1,4 @@
-package com.ckfce.aoc2023.core
+package com.ckfce.aoc2023.day1
 
 import org.junit.jupiter.api.Test
 import strikt.api.expectThat

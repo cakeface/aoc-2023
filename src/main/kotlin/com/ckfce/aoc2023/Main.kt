@@ -1,7 +1,7 @@
 package com.ckfce.aoc2023
 
-import com.ckfce.aoc2023.core.CalibrationDocument
-import com.ckfce.aoc2023.core.RealCalibrationDocument
+import com.ckfce.aoc2023.day1.CalibrationDocument
+import com.ckfce.aoc2023.day1.RealCalibrationDocument
 
 fun day1Part1() {
     val day1 = loadResource("Day1.txt")
